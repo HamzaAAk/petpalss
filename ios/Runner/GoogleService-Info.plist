@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>397350003569-qake4dcjh46dss7ar5spsckafbm6rmp6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.397350003569-qake4dcjh46dss7ar5spsckafbm6rmp6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBLCEIE8T7Z8HTDe3RvMUzYC5oBL9BfyO8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>397350003569</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.petpals.petpals</string>
+	<key>PROJECT_ID</key>
+	<string>petpals-d4590</string>
+	<key>STORAGE_BUCKET</key>
+	<string>petpals-d4590.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:397350003569:ios:51d241cf393176de930cd0</string>
+</dict>
+</plist>
